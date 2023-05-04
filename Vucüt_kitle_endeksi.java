@@ -16,4 +16,5 @@ public class VKIHesaplama {
 
         System.out.println("Vücut Kitle İndeksiniz : " + vki);
     }
+    //
 }
